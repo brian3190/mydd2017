@@ -1,0 +1,22 @@
+/*
+.embedded-video {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+*/
+
+/* 16x9 Aspect Ratio */
+/*.embedded-video-16x9 {
+  padding-bottom: 56.25%;
+}
+*/
+/* 4x3 Aspect Ratio */
+/*.embedded-video-4x3 {
+  padding-bottom:75%;
+}
+*/
+
+#tubular-container {
+  display: none;
+}
